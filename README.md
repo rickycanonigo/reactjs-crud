@@ -1,19 +1,7 @@
 # ReactJS CRUD Application Client and Server
 
 ## About
-> HRMS will record the personal information of employees
-
-
->It ensures the easy management of human resources and data.
->The system will keep the registered employment record of the employee.
->HR will be able to see the number of active and inactive employees.
-
-## Modules
->1.	Login
->2.	Account Settings
->3.	Dashboard
->4.	Employee 201 (Registration)
-
+> The application performs adding, updating, deleting and showing users list and contact details
 
 ## Installation Instruction(s)
 Run this Code to pull this repository

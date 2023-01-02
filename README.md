@@ -6,7 +6,7 @@
 ## Installation Instruction(s)
 Run this Code to pull this repository
 ```
-git https://github.com/rickycanonigo/reactjs-crud.git
+git clone https://github.com/rickycanonigo/reactjs-crud.git
 ```
 
 #### Installing the Server Application Dependencies

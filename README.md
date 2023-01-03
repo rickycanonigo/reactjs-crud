@@ -16,7 +16,7 @@ reactjs-crud/users-server>npm install
 
 #### Installing the Client Application Dependencies
 ```
-reactjs-crud/users-server>npm install
+reactjs-crud/users-client>npm install
 ```
 
 #### Run Server Application
@@ -26,5 +26,5 @@ reactjs-crud/users-server>npm run start
 
 #### Run Client Application
 ```
-reactjs-crud/users-server>npm run start
+reactjs-crud/users-client>npm run start
 ```
